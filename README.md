@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning AI Engineering with a strong interest in Data Science, Data Engineering, and Artificial Intelligence. I have worked on machine learning projects involving model training and the development of web applications for deploying AI solutions. I am open to collaboration, contributions, and internship opportunities where I can further apply and grow my skills in AI and data driven technologies.🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I am currently learning AI Engineering with a strong interest in Data Science, Data Engineering, and Artificial Intelligence. I have worked on machine learning projects involving model training and the development of web applications for deploying AI solutions. I am open to collaboration, contributions, and internship opportunities where I can further apply and grow my skills in AI and data driven technologies.🔭 I’m currently working on<br>
 
 
 ## 🌐 Socials:
